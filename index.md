@@ -1,6 +1,6 @@
 ## Jamie Zemin Zhang
 
-Email: zemin@google.com ![Image](https://github.com/jamiezemin/zemin.github.io/blob/gh-pages/me.jpg)
+Email: zemin@google.com ![Image](https://github.com/jamiezemin/zemin.github.io/blob/gh-pages/me.jpg =100x20)
 
 You can use the [editor on GitHub](https://github.com/jamiezemin/zemin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
